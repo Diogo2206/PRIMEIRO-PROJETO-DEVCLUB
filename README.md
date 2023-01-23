@@ -9,6 +9,6 @@
 
 <h2>Projeto no Mobile:</h2>
 
-<img src=""
+<img src="https://github.com/Diogo2206/eazy-shopping/blob/master/desktop2.png?raw=true" width= 150px/>
 
 
